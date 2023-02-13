@@ -37,8 +37,6 @@ void PrintVector(const vector<string> &v) {
 }
 
 int main() {
-	cout << 122;
-	PrintVector(solution("Lo vePizza"));
-	cout << "Test";
+
 	return 0;
 }
